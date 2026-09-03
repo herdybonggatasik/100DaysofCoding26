@@ -15,7 +15,7 @@ public class BiodataDiri {
         
         //Menggunakan print
         System.out.print("Herdi Bonggatasik \t\t:" + nama + "\n");
-        System.out.print("D0226024" \t\t:" + nim + "\n");
+        System.out.print("D0226024 \t\t:" + nim + "\n");
         System.out.print("informatika \t\t:"+ jurusan + "\n");
         System.out.print("18 \t:" + umur + "\n");
         System.out.print("164 \t:" + tinggiBadan + "\n");
