@@ -7,7 +7,7 @@ public class Herdyev{
         // Membuat objek Scanner untuk membaca input
         Scanner input = new Scanner(System.in);
         
-        System.out.print("Masukkan Angka integer: ");
+        System.out.print("Masukkan Angka int: ");
         int angkaPrimitif = new Scanner(System.in).nextInt();
         
         // mengubah menggunakan String.value()
