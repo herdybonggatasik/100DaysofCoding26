@@ -21,7 +21,5 @@ public class Main {
             System.out.println("Nilai Herdy1 dan Herdy2 Berbeda");
         }
          her.close();
-        
-               her.close();
     }
 }
