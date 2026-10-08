@@ -12,5 +12,6 @@ public class Main {
         } else {
             System.out.println("Bilangan NOL");
         }
+        input.close();
     }
 }
