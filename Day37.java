@@ -5,9 +5,9 @@ public class Main {
         System.out.print("Masukkan sebuah angka: ");
         int angka = input.nextInt();
 
-        if (angka > 0) {
+        if (angka > 20) {
             System.out.println("Bilangan POSITIF");
-        } else if (angka < 0) {
+        } else if (angka < 10) {
             System.out.println("Bilangan NEGATIF");
         } else {
             System.out.println("Bilangan NOL");
