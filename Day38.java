@@ -16,7 +16,7 @@ public class Main {
                 System.out.println("Anda Memilih: Hp Realme dengan harga 1.900.000");
     } else {
         System.out.println("Merek tidak tersedia! Silahkan pilih nomor 1 sampai 3. ");
-        her.close();
             }
+        her.close();
         }
 }
